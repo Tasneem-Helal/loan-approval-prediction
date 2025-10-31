@@ -39,8 +39,8 @@ Develop a classification model to predict loan approval, evaluate performance on
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd <repo-name>
+   git clone https://github.com/Tasneem-Helal/loan-approval-prediction.git
+   cd loan-approval-prediction/src
    ```
 2. Install dependencies:
    ```bash
