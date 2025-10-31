@@ -44,7 +44,7 @@ Develop a classification model to predict loan approval, evaluate performance on
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r ../requirements.txt
    ```
 3. Run the notebook:
    ```bash
