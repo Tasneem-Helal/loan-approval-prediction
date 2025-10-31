@@ -47,9 +47,7 @@ Develop a classification model to predict loan approval, evaluate performance on
    pip install -r ../requirements.txt
    ```
 3. Run the notebook:
-   ```bash
-   jupyter notebook src/loan_approval_prediction.ipynb
-   ```
+   > Open `loan_approval_prediction.ipynb` from the `src` folder and execute the cells sequentially.
 
 ---
 
